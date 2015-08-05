@@ -1,3 +1,0 @@
-Hi, I am John
-
-This is named as "1st commit"
