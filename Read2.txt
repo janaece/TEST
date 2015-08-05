@@ -1,3 +1,0 @@
-This is named as commit2
-
-This will have "Commit3"
